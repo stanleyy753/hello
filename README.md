@@ -1,2 +1,2 @@
 # hello
-starting
+starting project
